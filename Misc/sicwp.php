@@ -1,7 +1,10 @@
 <?php
 /**
- * Note to User/Tester: Zip Me and Upload
- * Plugin Name: SiC WP Plugin
+ * Note to User/Tester: Zip Me and Upload - There's no copyright, it's just plugin template garbage. 
+ *    Addtl: Will be adding Windows PHP rev. shell functionality soon from Dhayalanb's PHP Rev Shell
+ *
+ *
+ * Plugin Name: SiC WordPress Plugin (h/t Pentestmonkey.net - modified php rev shell)
  * Plugin URI: https://www.getrekt.com/EpicWP/
  * Description: Adds Pwnage to WordPress - add ?ip=&port= parameter arguments. - Finding $iCn3$$ is H3r3 comment in the site validates successfully loaded plugin. Modified version from pentestmonkey.net that doesn't take down the WP Site but adds a comment and logs output to javascript console.log.
  * Author: SiCiNtHeMiNd (h/t Pentestmonkey.net)
@@ -9,7 +12,6 @@
  * Version: 1.0
  *
  * Copyright: (c) 2019 SiC (SiC@SiCiNtHeMiNd.com)
- *
  * License: GNU General Public License v3.0
  * License URI: http://www.gnu.org/licenses/gpl-3.0.html
  *
